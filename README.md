@@ -20,13 +20,13 @@
  <hr />
 
 ### :woman_technologist: About Me :
-I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela.
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Bogotá, Colombia.
 
 - :telescope: I’m working as a freelance Front-end developer and I'm currently looking for a company job.
 
 - :seedling: Exploring modern Javascript frameworks and best coding practices.
 
-- :zap: In my free time, I crochet big plushies and read medieval fantasy.
+- :zap: In my free time, I crochet big plushies and read fantasy books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-quintanilla-2a8200211/)
 
