@@ -22,11 +22,13 @@
 ### :woman_technologist: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Bogotá, Colombia.
 
-- :telescope: I’m working as a freelance Front-end developer and I'm currently looking for a company job.
+- :telescope: Front-end developer with a passion for creating engaging websites! I've completed multiple projects using technologies like React, Next JS, Vue, TypeScript, Firebase, among others.
 
-- :seedling: Exploring modern Javascript frameworks and best coding practices.
+- 💻 I enjoy facing new challenges and have done so since the beginning of my working life with projects that, being very important for the company, undoubtedly led me to get the best out of myself.
 
-- :zap: In my free time, I crochet big plushies and read fantasy books.
+- :zap: I love to crochet plushies and read books in my free time.
+
+- :seedling: Let's connect and explore how I can help bring your next project to life.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-quintanilla-2a8200211/)
 
